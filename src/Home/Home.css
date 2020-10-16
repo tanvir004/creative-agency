@@ -1,0 +1,97 @@
+.home{
+    background-color: #FBD062;
+    
+}
+.element{
+    padding: 30px;
+    
+}
+.left-element{
+   text-align: justify; 
+}
+.right-element img{
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+}
+.siteArea img{
+    padding: 15px;
+    width: 8%;
+}
+.siteArea{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 30px;
+    
+}
+.cardElement{
+    text-align: center;
+    border: 0px;
+    margin: 30px;
+    
+}
+.cardElement img{
+    width: 40%;
+    margin: auto;
+    padding: 30px;
+}
+/* .cardShadow{
+    width: 18rem;
+    border: none;
+} */
+.cardShadow:hover{
+    box-shadow: 5px 5px 10px 10px #E5E5E5;
+}
+.cardSiteArea{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 30px;
+    margin: 30px;
+}
+.carImage{
+    width: 30%;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+    
+}
+.caroselHead{
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
+.highlight{
+    color: #7AB259;
+}
+.caroArea{
+    background-color: #111430;
+}
+.reviewCardSiteArea{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 30px;
+    margin: 30px;
+}
+.reviewCardElement{
+    margin: 15px;
+    padding: 10px;
+    
+}
+.reviewHead{
+    text-align: center;
+    margin: 30px;
+    padding: 20px;
+}
+.sendTextArea{
+    margin: 30px;
+    padding: 30px;
+    text-align: justify;
+}
+.sendArea{
+    background-color: #FBD062;
+    padding: 10px;
+    text-align: center;
+}
